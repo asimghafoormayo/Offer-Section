@@ -59,9 +59,9 @@ const Sidebar = () => {
             <span className="text-blue-900 font-bold ml-2">Offer Generator</span>
           </div>
           <ul className="ml-6 list-disc list-inside my-3">
-            <li className="text-gray-600">Generate Offer</li>
+            <li className="text-gray-600">All Offers</li>
             <li className="text-gray-600 mt-2">
-                <button className='bg-blue-900 px-12 py-2 text-white rounded-md'>Click</button>
+                <button className='bg-blue-900 px-2 py-2 text-white rounded-md'>Generate Offers</button>
             </li>
           </ul>
         </li>
